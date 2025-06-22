@@ -4,7 +4,6 @@
 # PURPOSE : to get the historical values of an account from daily account files saved in $HIS/
 #
 # GROUP   : IS
-# AUTHOR  : Alaa Nagy
 # DATE    : 18 May 2002
 #-------------------------------------------------------------------------------------------------------------
 . /aedc/etc/work/aedc/SCC/aedc_SCC_functions
