@@ -4,7 +4,6 @@
 # PURPOSE : Create Feeders & Subfeeders Daily Percntage Load Report  
 #               call formated input file ${FlName} 
 # GROUP   : SCC
-# AUTHOR  : Abeer M. Elsayed  ( Alexandria Superviory Control Center )
 # DATE    :  10/01/2006
 #--------------------------------------------------------------------------
 . /aedc/etc/work/aedc/SCC/aedc_SCC_functions
