@@ -3,8 +3,7 @@
 # TITLE		:aedc_cutoff_feeders_load_3Hrs
 # PURPOSE	:preapare report for load of cutoff feeders due to under frequency groups
 #
-# GROUP		:IS
-# AUTHOR	:Alaa Nagy and  SCC S/W group 
+# GROUP		:IS 
 # DATE		:17 Dec 2012
 #UPDATE HISTORY	: 
 #------------------------------------------------------------------------------
