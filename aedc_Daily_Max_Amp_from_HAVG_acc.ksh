@@ -3,7 +3,6 @@
 # TITLE         : Daily max Amp for CT point
 # PURPOSE       : to Determind Daily Max Load report for CT point from HAVG account
 # GROUP         : IS
-# AUTHOR        : Alaa Nagy
 # DATE          : 20 Mar 2006
 #------------------------------------------------------------------------------
 . /aedc/etc/work/aedc/SCC/aedc_SCC_functions
