@@ -2,7 +2,6 @@
 ##################################################################
 # purpose :to insert data to iutddb..TSCC6_Alex_load_Ratio 
 # 		for Distribution load  to alex. city load
-# Owner   :  Alaa Nagy , Abeer Elsayed
 #Last modification : 3 aug. 2004 
 ##################################################################
 
