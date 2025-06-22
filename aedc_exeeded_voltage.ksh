@@ -1,8 +1,5 @@
 #!/bin/ksh
-###########################################
-#
-#
-############################################
+
 . /aedc/etc/work/aedc/SCC/aedc_SCC_functions
 IN_FILE=/aedc/data/dbgen/SCC/SCC_ACC/SCCacc_15MIN_in_SS_VOLT.dat
 OUT_FILE=${SCCTMP}/SS_VoltExd
